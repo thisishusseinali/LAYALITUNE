@@ -1,9 +1,13 @@
 # LAYALITUNE
-# ROGEN
 
 <div align="center">
   <img src="https://github.com/thisishusseinali/LAYALITUNE/blob/main/LAYALITUNE.svg" width="100%" alt="CodeCube Banner">
 </div>
+
+<div align="center">
+  <img src="https://github.com/thisishusseinali/LAYALITUNE/blob/main/screenshot.png" width="100%" alt="CodeCube Banner">
+</div>
+
 
 LayaliTune 🎵 is a sleek music player written in Python using Dear PyGui and Pygame libraries. 🎨 Sporting an open-red themed interface, it offers users a hassle-free experience in managing and playing their music collection, complete with dynamic playlist updates, volume control, and playback functionalities. 🎶🔴
 
